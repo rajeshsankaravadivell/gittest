@@ -16,6 +16,7 @@ class _BarnchRajeshState extends State<BarnchRajesh> {
 
       body: Container(
         color: Colors.redAccent,
+        child: Text('test2'),
       ),
 
     );
