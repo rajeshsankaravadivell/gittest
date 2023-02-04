@@ -12,6 +12,12 @@ class BarnchRajesh extends StatefulWidget {
 class _BarnchRajeshState extends State<BarnchRajesh> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+
+      body: Container(
+        color: Colors.redAccent,
+      ),
+
+    );
   }
 }
